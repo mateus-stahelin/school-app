@@ -1,0 +1,10 @@
+### DATABASE Config ###
+src/config/database.js
+
+### APP Config ###
+node_modules
+package.json
+package-lock.json
+
+### VS Code ###
+.vscode/
