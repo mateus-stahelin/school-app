@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BACKEND_URL = "http://localhost:3333";
+const BACKEND_URL = process.env.VUE_APP_API_URL;
 
 class StudentService {
     async select() {
