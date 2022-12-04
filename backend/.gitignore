@@ -8,3 +8,7 @@ package-lock.json
 
 ### VS Code ###
 .vscode/
+
+# ENV files
+.env.local
+.env.*.local
